@@ -1,0 +1,201 @@
+age_group,province,account_type,counts
+18-24,Alberta,Business,9
+18-24,Alberta,Chequing,103
+18-24,Alberta,Joint,28
+18-24,Alberta,Savings,48
+18-24,British Columbia,Business,13
+18-24,British Columbia,Chequing,100
+18-24,British Columbia,Joint,29
+18-24,British Columbia,Savings,68
+18-24,Manitoba,Business,4
+18-24,Manitoba,Chequing,21
+18-24,Manitoba,Joint,11
+18-24,Manitoba,Savings,15
+18-24,New Brunswick,Business,1
+18-24,New Brunswick,Chequing,12
+18-24,New Brunswick,Joint,1
+18-24,New Brunswick,Savings,7
+18-24,Newfoundland and Labrador,Business,0
+18-24,Newfoundland and Labrador,Chequing,17
+18-24,Newfoundland and Labrador,Joint,3
+18-24,Newfoundland and Labrador,Savings,5
+18-24,Nova Scotia,Business,3
+18-24,Nova Scotia,Chequing,23
+18-24,Nova Scotia,Joint,10
+18-24,Nova Scotia,Savings,12
+18-24,Ontario,Business,19
+18-24,Ontario,Chequing,276
+18-24,Ontario,Joint,75
+18-24,Ontario,Savings,153
+18-24,Prince Edward Island,Business,1
+18-24,Prince Edward Island,Chequing,4
+18-24,Prince Edward Island,Joint,0
+18-24,Prince Edward Island,Savings,3
+18-24,Quebec,Business,11
+18-24,Quebec,Chequing,162
+18-24,Quebec,Joint,59
+18-24,Quebec,Savings,114
+18-24,Saskatchewan,Business,1
+18-24,Saskatchewan,Chequing,26
+18-24,Saskatchewan,Joint,7
+18-24,Saskatchewan,Savings,20
+25-34,Alberta,Business,13
+25-34,Alberta,Chequing,140
+25-34,Alberta,Joint,40
+25-34,Alberta,Savings,89
+25-34,British Columbia,Business,23
+25-34,British Columbia,Chequing,153
+25-34,British Columbia,Joint,48
+25-34,British Columbia,Savings,109
+25-34,Manitoba,Business,6
+25-34,Manitoba,Chequing,58
+25-34,Manitoba,Joint,9
+25-34,Manitoba,Savings,29
+25-34,New Brunswick,Business,2
+25-34,New Brunswick,Chequing,24
+25-34,New Brunswick,Joint,5
+25-34,New Brunswick,Savings,14
+25-34,Newfoundland and Labrador,Business,1
+25-34,Newfoundland and Labrador,Chequing,16
+25-34,Newfoundland and Labrador,Joint,5
+25-34,Newfoundland and Labrador,Savings,13
+25-34,Nova Scotia,Business,4
+25-34,Nova Scotia,Chequing,49
+25-34,Nova Scotia,Joint,13
+25-34,Nova Scotia,Savings,30
+25-34,Ontario,Business,46
+25-34,Ontario,Chequing,477
+25-34,Ontario,Joint,141
+25-34,Ontario,Savings,269
+25-34,Prince Edward Island,Business,0
+25-34,Prince Edward Island,Chequing,4
+25-34,Prince Edward Island,Joint,3
+25-34,Prince Edward Island,Savings,2
+25-34,Quebec,Business,29
+25-34,Quebec,Chequing,301
+25-34,Quebec,Joint,92
+25-34,Quebec,Savings,176
+25-34,Saskatchewan,Business,9
+25-34,Saskatchewan,Chequing,52
+25-34,Saskatchewan,Joint,20
+25-34,Saskatchewan,Savings,30
+35-44,Alberta,Business,14
+35-44,Alberta,Chequing,118
+35-44,Alberta,Joint,32
+35-44,Alberta,Savings,67
+35-44,British Columbia,Business,13
+35-44,British Columbia,Chequing,135
+35-44,British Columbia,Joint,38
+35-44,British Columbia,Savings,76
+35-44,Manitoba,Business,4
+35-44,Manitoba,Chequing,44
+35-44,Manitoba,Joint,13
+35-44,Manitoba,Savings,22
+35-44,New Brunswick,Business,4
+35-44,New Brunswick,Chequing,28
+35-44,New Brunswick,Joint,7
+35-44,New Brunswick,Savings,9
+35-44,Newfoundland and Labrador,Business,2
+35-44,Newfoundland and Labrador,Chequing,14
+35-44,Newfoundland and Labrador,Joint,4
+35-44,Newfoundland and Labrador,Savings,7
+35-44,Nova Scotia,Business,1
+35-44,Nova Scotia,Chequing,31
+35-44,Nova Scotia,Joint,7
+35-44,Nova Scotia,Savings,14
+35-44,Ontario,Business,34
+35-44,Ontario,Chequing,407
+35-44,Ontario,Joint,126
+35-44,Ontario,Savings,231
+35-44,Prince Edward Island,Business,1
+35-44,Prince Edward Island,Chequing,9
+35-44,Prince Edward Island,Joint,0
+35-44,Prince Edward Island,Savings,6
+35-44,Quebec,Business,31
+35-44,Quebec,Chequing,268
+35-44,Quebec,Joint,65
+35-44,Quebec,Savings,135
+35-44,Saskatchewan,Business,3
+35-44,Saskatchewan,Chequing,41
+35-44,Saskatchewan,Joint,11
+35-44,Saskatchewan,Savings,22
+45-54,Alberta,Business,10
+45-54,Alberta,Chequing,84
+45-54,Alberta,Joint,30
+45-54,Alberta,Savings,50
+45-54,British Columbia,Business,8
+45-54,British Columbia,Chequing,105
+45-54,British Columbia,Joint,36
+45-54,British Columbia,Savings,46
+45-54,Manitoba,Business,4
+45-54,Manitoba,Chequing,27
+45-54,Manitoba,Joint,15
+45-54,Manitoba,Savings,15
+45-54,New Brunswick,Business,3
+45-54,New Brunswick,Chequing,20
+45-54,New Brunswick,Joint,5
+45-54,New Brunswick,Savings,12
+45-54,Newfoundland and Labrador,Business,1
+45-54,Newfoundland and Labrador,Chequing,16
+45-54,Newfoundland and Labrador,Joint,6
+45-54,Newfoundland and Labrador,Savings,7
+45-54,Nova Scotia,Business,2
+45-54,Nova Scotia,Chequing,32
+45-54,Nova Scotia,Joint,9
+45-54,Nova Scotia,Savings,17
+45-54,Ontario,Business,31
+45-54,Ontario,Chequing,335
+45-54,Ontario,Joint,113
+45-54,Ontario,Savings,191
+45-54,Prince Edward Island,Business,0
+45-54,Prince Edward Island,Chequing,1
+45-54,Prince Edward Island,Joint,1
+45-54,Prince Edward Island,Savings,3
+45-54,Quebec,Business,26
+45-54,Quebec,Chequing,181
+45-54,Quebec,Joint,56
+45-54,Quebec,Savings,129
+45-54,Saskatchewan,Business,4
+45-54,Saskatchewan,Chequing,40
+45-54,Saskatchewan,Joint,15
+45-54,Saskatchewan,Savings,17
+55+,Alberta,Business,12
+55+,Alberta,Chequing,110
+55+,Alberta,Joint,44
+55+,Alberta,Savings,78
+55+,British Columbia,Business,18
+55+,British Columbia,Chequing,136
+55+,British Columbia,Joint,48
+55+,British Columbia,Savings,69
+55+,Manitoba,Business,5
+55+,Manitoba,Chequing,40
+55+,Manitoba,Joint,16
+55+,Manitoba,Savings,28
+55+,New Brunswick,Business,6
+55+,New Brunswick,Chequing,19
+55+,New Brunswick,Joint,6
+55+,New Brunswick,Savings,15
+55+,Newfoundland and Labrador,Business,2
+55+,Newfoundland and Labrador,Chequing,13
+55+,Newfoundland and Labrador,Joint,6
+55+,Newfoundland and Labrador,Savings,5
+55+,Nova Scotia,Business,1
+55+,Nova Scotia,Chequing,31
+55+,Nova Scotia,Joint,5
+55+,Nova Scotia,Savings,25
+55+,Ontario,Business,47
+55+,Ontario,Chequing,380
+55+,Ontario,Joint,141
+55+,Ontario,Savings,252
+55+,Prince Edward Island,Business,0
+55+,Prince Edward Island,Chequing,6
+55+,Prince Edward Island,Joint,1
+55+,Prince Edward Island,Savings,8
+55+,Quebec,Business,35
+55+,Quebec,Chequing,255
+55+,Quebec,Joint,85
+55+,Quebec,Savings,151
+55+,Saskatchewan,Business,3
+55+,Saskatchewan,Chequing,43
+55+,Saskatchewan,Joint,13
+55+,Saskatchewan,Savings,27
