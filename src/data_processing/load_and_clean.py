@@ -39,3 +39,10 @@ raw.to_csv(os.path.join(base_dir, '..', '..', 'data', 'processed', 'clients.csv'
 #explore columns
 stats=(raw.describe(include='all')).reset_index()
 stats.to_csv(os.path.join(base_dir, '..', '..', 'data', 'processed', 'clients_stats.csv'), index=False)
+
+
+#frequency counts for account types
+split_products=raw['products_owned'].str.split(';')
+products=split_products.explode()
+products=products.str.strip().str.title()
+print(products.value_counts())
